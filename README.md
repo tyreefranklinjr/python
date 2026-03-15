@@ -20,6 +20,4 @@ Each project is organized individually with its own code, documentation, and sup
 
 ```text
 projects/
-  ├── project-01-name/
-  ├── project-02-name/
-  └── project-03-name/
+  └── task-manager/
