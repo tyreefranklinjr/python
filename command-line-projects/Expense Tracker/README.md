@@ -102,4 +102,3 @@ python expense_tracker.py
 ## Goal
 
 This project was built to strengthen Python fundamentals and demonstrate the ability to build real-world CLI applications focused on data tracking and analysis.
-EOF
