@@ -1,0 +1,10 @@
+{"name": "Tyree Franklin", "phone": "817-555-1201", "email": "tyree.franklin@gmail.com"}
+{"name": "Jordan Miles", "phone": "682-555-3482", "email": "jmiles@yahoo.com"}
+{"name": "Aaliyah Carter", "phone": "469-555-7731", "email": "aaliyah.carter@outlook.com"}
+{"name": "Marcus Johnson", "phone": "214-555-9920", "email": "marcus.j@gmail.com"}
+{"name": "Sofia Ramirez", "phone": "972-555-4433", "email": "sofia.ramirez@gmail.com"}
+{"name": "Darius Walker", "phone": "817-555-6612", "email": "dwalker@yahoo.com"}
+{"name": "Emily Chen", "phone": "469-555-8844", "email": "emily.chen@gmail.com"}
+{"name": "Noah Thompson", "phone": "682-555-2309", "email": "noah.t@outlook.com"}
+{"name": "Isabella Martinez", "phone": "214-555-7755", "email": "isabella.m@gmail.com"}
+{"name": "Ethan Brooks", "phone": "972-555-1188", "email": "ethan.brooks@yahoo.com"}
