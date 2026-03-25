@@ -8,6 +8,8 @@ This repository serves as my central Python portfolio. It contains selected proj
 
 Each project is organized individually with its own code, documentation, and supporting assets.
 
+---
+
 ## Focus Areas
 
 - Automation and scripting
@@ -16,8 +18,49 @@ Each project is organized individually with its own code, documentation, and sup
 - Beginner-to-intermediate application development
 - Clean code structure and project documentation
 
+---
+
 ## Repository Structure
 
 ```text
 projects/
-  └── task-manager/
+  ├── task-manager/
+  ├── todo-list/
+  ├── expense-tracker/
+  ├── contact-book/
+  └── quiz-game/
+```
+
+---
+
+## Projects Included
+
+### Task Manager
+A simple application to manage tasks with features for adding, updating, and tracking progress.
+
+### To-Do List
+A command-line tool for organizing daily tasks with basic CRUD operations.
+
+### Expense Tracker
+Tracks income and expenses, helping manage personal finances and analyze spending.
+
+### Contact Book
+Stores and manages contacts with features like search, update, and deletion.
+
+### Quiz Game
+An interactive CLI-based quiz application that tests knowledge with multiple-choice questions.
+
+---
+
+## Notes
+
+- Projects focus on building strong programming fundamentals
+- Emphasis on clean, readable, and maintainable code
+- Each project reflects incremental learning and improvement
+
+---
+
+## Goal
+
+To continuously improve my Python development skills and build a strong foundation for software engineering.
+EOF
