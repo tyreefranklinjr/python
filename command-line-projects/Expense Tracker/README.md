@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Expense Tracker
 
 ## Overview
